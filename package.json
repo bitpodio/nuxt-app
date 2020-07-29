@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
-    "start": "nuxt start --hostname=0.0.0.0",
+    "start": "nuxt start",
     "export": "nuxt export",
     "serve": "nuxt serve"
   },
