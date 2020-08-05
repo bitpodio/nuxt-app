@@ -1,7 +1,7 @@
 
 export default {
   router: {
-    base: '/killer/'
+    base: process.env.PUBLIC_PATH || ''
   },
   /*
   ** Nuxt rendering mode
