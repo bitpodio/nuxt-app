@@ -3,8 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        This is a first Trial App
-        Check
+       first Trial App
       </h1>
       <div class="links">
         <a
@@ -13,7 +12,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation of test
+          Documentation
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
@@ -21,7 +20,7 @@
           rel="noopener noreferrer"
           class="button--grey"
         >
-          GitHub
+          GitHub Check
         </a>
       </div>
     </div>
