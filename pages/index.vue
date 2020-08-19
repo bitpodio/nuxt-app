@@ -4,6 +4,7 @@
       <Logo />
       <h1 class="title">
         This is a first Trial App
+        Check
       </h1>
       <div class="links">
         <a
@@ -12,7 +13,7 @@
           rel="noopener noreferrer"
           class="button--green"
         >
-          Documentation
+          Documentation of test
         </a>
         <a
           href="https://github.com/nuxt/nuxt.js"
