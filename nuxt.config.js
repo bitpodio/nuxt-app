@@ -1,6 +1,8 @@
 console.log(process.env.myname)
 export default {
- 
+ router: {
+    base: process.env.PUBLIC_PATH || ''
+  },
   /*
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
