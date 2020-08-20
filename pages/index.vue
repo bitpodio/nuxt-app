@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-      Corona Update App
+     First Test App
       </h1>
       <div class="links">
         <a
