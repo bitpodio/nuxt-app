@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-      This is Test App
+     Check This app 
       </h1>
       <div class="links">
         <a
