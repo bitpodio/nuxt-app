@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-     Check This app 
+     MMM
       </h1>
       <div class="links">
         <a
