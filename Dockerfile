@@ -5,7 +5,7 @@ ENV app="/home/app"
 
 WORKDIR "$app"
 
-COPY ["package.json","yarn.lock", "$app/"]
+COPY ["package.json","package-lock.json", "$app/"]
 
 RUN yarn install
 
